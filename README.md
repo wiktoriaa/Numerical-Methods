@@ -1,3 +1,3 @@
 # Numerical-Methods
-Programming Language: Python
+Programming Language: Python<br>
 Language: Polish
